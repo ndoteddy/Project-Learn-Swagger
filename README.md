@@ -39,7 +39,12 @@ author : nando teddy
      - make sure npm already installed
      - npm install
      - wait for a minutes (or maybe 5 minutes :D)  
+     - install postgresql
+     - run this command (psql.exe -U (your username) -d (your dbname) -f tshirt.sql)
+     - change connection string in 'queries.js' line 9
+       var connectionString = 'postgres://<yourusername>:<yourpassword>@localhost:5432/tshirt';
      - npm start
+    
      
 4. Happy coding
 
