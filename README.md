@@ -52,7 +52,7 @@ author : nando teddy
     - You can host in any Node JS Platform, my recommendation 
     - Heroku | AWS | Azure
     
-6.You can add me on dribble
+6. You can add me on dribble
     - https://dribbble.com/nandoteddy
     - Because this API load image from my Dribble :D
         
