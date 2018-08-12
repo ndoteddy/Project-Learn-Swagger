@@ -21,12 +21,13 @@ author : nando teddy
 ## Prerequisite
 
 1.  In order to utilize this API sample u need to understand basic concept of 
-    - JSON
-    - YAML
-    - NODE JS
-    - EXPRESS
-    - POSTGRESQL
-    - SWAGGER CODE EDITOR    
+    - JSON                  : https://json.org 
+    - YAML                  : http://yaml.org
+    - NODE JS               : https://nodejs.org/en/
+    - EXPRESS               : https://expressjs.com/
+    - POSTGRESQL            : https://www.postgresql.org/
+    - SWAGGER CODE EDITOR   : https://editor.swagger.io/
+    - NPM                   : https://www.npmjs.com/
     
 2. Clone or Fork This repository
     https://github.com/ndoteddy/Project-Learn-Swagger   
